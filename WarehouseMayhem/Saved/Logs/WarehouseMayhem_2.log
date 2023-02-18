@@ -1498,6 +1498,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.13-17.22.22:019][623]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.186 and deleted 0 file(s) with total size 0 MiB.
 [2023.02.13-18.22.22:112][580]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.193 and deleted 0 file(s) with total size 0 MiB.
 [2023.02.13-19.22.22:141][315]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.218 and deleted 0 file(s) with total size 0 MiB.
+<<<<<<< HEAD
 [2023.02.13-20.22.22:349][557]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.230 and deleted 0 file(s) with total size 0 MiB.
 [2023.02.13-21.22.22:286][570]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.253 and deleted 0 file(s) with total size 0 MiB.
 [2023.02.13-22.22.22:081][300]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.181 and deleted 0 file(s) with total size 0 MiB.
@@ -1601,3 +1602,5 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.17-16.27.06:135][400]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.195 and deleted 0 file(s) with total size 0 MiB.
 [2023.02.17-17.27.06:135][135]LogDerivedDataCache: C:/Users/migue/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.203 and deleted 0 file(s) with total size 0 MiB.
 [2023.02.17-17.50.30:424][314]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+=======
+>>>>>>> 66250ef1314c3c8d4c95af9b01173d7552ced261
